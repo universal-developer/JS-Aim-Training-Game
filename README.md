@@ -3,9 +3,9 @@
 <h2>Pages:</h2>
 
 <h2 align="center">Desktop Version:</h2>
-<p align="center"><img src="assets/1.png" height="550px"/></p>
-<p align="center"><img src="assets/2.png" height="550px"/></p>
-<p align="center"><img src="assets/3.png" height="550px"/></p>
+<p align="center"><img src="assets/1.png"/></p>
+<p align="center"><img src="assets/2.png"/></p>
+<p align="center"><img src="assets/3.png"/></p>
 
 
 <hr/>
